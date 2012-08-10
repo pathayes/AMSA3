@@ -40,6 +40,10 @@
 		position: relative;
 		margin: 20px auto;
 		background: #acacac;
+		border-right: none;
+        border-left: none;
+		border-bottom: none;
+		border-top: none;
 	}
 	body {
 		width: 100%;
