@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+	<widget xmlns = "http://www.w3.org/ns/widgets"
+		xmlns:gap = "http://phonegap.com/ns/1.0"
+		id = "com.AMSA.MeatReference"
+		version = "1.0.0">
+	
+		<name>AMSA Meat Reference</name>
+		
+		<description>
+			A reference guide for Meat Scientists, students, educators, and consumers
+			published by the American Meat Science Association.
+		</description>
+		
+		<author href="http://www.meatscience.org"
+				email="phayes@meatscience.org">
+				Patrick Hayes
+		</author>
+	</widget>
+	<icon src="icon.png" />
+	<icon src="winphoicon.png" width="62" height="62" gap:platform="winphone"/>
+	<icon src="windowsphonetile.png" gap:platform="winphone" gap:role="background" />
+	
