@@ -34,6 +34,18 @@
 	}
 }
 
+@media screen and (max-width: 500px) {
+	.ui-content {
+		width: 90%;
+		position: relative;
+		margin: 20px auto;
+		background: #acacac;
+	}
+	body {
+		width: 100%;
+	}
+}
+
 #maingrid {
 	
 	position: relative;
