@@ -10,8 +10,7 @@
 			A reference guide for Meat Scientists, students, educators, and consumers
 			published by the American Meat Science Association.
 		</description>
-		
-		<preference name="permissions" value="none"/>
+
 		
 		<author href="http://www.meatscience.org"
 				email="phayes@meatscience.org">
