@@ -4,7 +4,7 @@
 		id = "com.AMSA.MeatReference"
 		version = "1.0.0">
 	
-		<name>AMSAMeatReference</name>
+		<name>AMSA Meat Reference</name>
 		
 		<description>
 			A reference guide for Meat Scientists, students, educators, and consumers
@@ -16,11 +16,40 @@
 				email="phayes@meatscience.org">
 				Patrick Hayes
 		</author>
+		
+<!--Preferences-->
+		<preference name="disable-cursor" value="true" />
+		
+<!--icons-->
 		<icon src="icon.png" />
 		<icon src="winphoicon.png" width="62" height="62" gap:platform="winphone"/>
 		<icon src="windowsphonetile.png" gap:platform="winphone" gap:role="background" />
-
+		
+		<!--still need to make these -->
+		<icon src="iphone57.png" gap:platform="ios" width="57" height="57"/>
+		<icon src="iphone72.png" gap:platform="ios" width="72" height="72"/>
+		<icon src="ipad114.png" gap:platform="ios" width="114" height="114"/>
+		<icon src="ipad144.png" gap:platform="ios" width="144" height="144"/>
+		<icon src="ldpi.png" gap:platform="android" gap:density="ldpi"/>
+		<icon src="mdpi.png" gap:platform="android" gap:density="mdpi"/>
+		<icon src="hdpi.png" gap:platform="android" gap:density="hdpi"/>
+		<icon src="blackberry68.png" gap:platform="blackberry" width="68" height="68"/>
+		
+		
+<!--splash screens-->
 		<gap:splash src="winphosplash.jpg" gap:platform="winphone" />
+		
+		<!--Still need to make these -->
+		<gap:splash src="iphonesplash.png" gap:platform="ios" width="" height=""/>
+		<gap:splash src="iphoneretinasplash.png" gap:platform="ios" width="" height=""/>
+		<gap:splash src="ipadsplashportrait.png" gap:platform="ios" width="" height=""/>
+		<gap:splash src="ipadsplashlandscape.png" gap:platform="ios" width="" height=""/>
+		<gap:splash src="ipadsplashretinaportrait.png" gap:platform="ios" width="" height=""/>
+		<gap:splash src="ipadsplashretinalandscape.png" gap:platform="ios" width="" height=""/>
+		<gap:splash src="ldpisplash.png" gap:platform="android" gap:density="ldpi"/>
+		<gap:splash src="mdpisplash.png" gap:platform="android" gap:density="mdpi"/>
+		<gap:splash src="hdpisplash.png" gap:platform="android" gap:density="hdpi"/>
+		<gap:splash src="blackberrysplash.png" gap:platform="blackberry" width="" height=""/>
+
 </widget>
-	
 	
