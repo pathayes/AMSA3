@@ -19,6 +19,7 @@
 		
 <!--Preferences-->
 		<preference name="disable-cursor" value="true" />
+		<preference name="permissions" value="none" />
 		
 <!--icons-->
 		<icon src="icon.png" />
