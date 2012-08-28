@@ -18,6 +18,7 @@
 		</author>
 		
 <!--Preferences-->
+		<preference name="phonegap-version" value="2.0.0" />
 		<preference name="disable-cursor" value="true" />
 		<preference name="permissions" value="none" />
 		<preference name="target-device" value="universal" />
