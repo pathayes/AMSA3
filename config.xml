@@ -20,15 +20,16 @@
 <!--Preferences-->
 		<preference name="disable-cursor" value="true" />
 		<preference name="permissions" value="none" />
+		<preference name="target-device" value="universal" />
 		
 <!--icons-->
-		<icon src="icon.png" />
+		<icon src="iphone57.png" />
 		<icon src="winphoicon.png" width="62" height="62" gap:platform="winphone"/>
 		<icon src="windowsphonetile.png" gap:platform="winphone" gap:role="background" />
-		<icon src="iphone57.png" gap:platform="ios" width="57" height="57"/>
+		<icon src="iphone57.png" width="57" height="57"/>
 		<icon src="iphone72.png" gap:platform="ios" width="72" height="72"/>
-		<icon src="ipad114.png" gap:platform="ios" width="114" height="114"/>
-		<icon src="ipad144.png" gap:platform="ios" width="144" height="144"/>
+		<icon src="ipad114.png" width="114" height="114"/>
+		<icon src="ipad144.png" width="144" height="144"/>
 		<icon src="ldpi.png" gap:platform="android" gap:density="ldpi"/>
 		<icon src="mdpi.png" gap:platform="android" gap:density="mdpi"/>
 		<icon src="hdpi.png" gap:platform="android" gap:density="hdpi"/>
